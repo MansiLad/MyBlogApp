@@ -1,0 +1,7 @@
+Django
+python-dotenv
+whitenoise
+mysqlclient
+django-taggit==1.3.0
+psycopg2
+Markdown
